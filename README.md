@@ -1,4 +1,19 @@
-<h3 style="color: blue;">Whaddupp</h3>
+<h3">Hello GithubWorld</h3>
+
+Uhm...
+
+Nothing really to see here!?
+
+
+Languages I know:
+- Ruby
+- C#
+- Python
+- JS
+- C++
+- C
+- SQL
+- Java
 
 <a href="https://github.com/404kuso/404kuso/">
    <img src="https://github-readme-stats.vercel.app/api?username=404kuso&hide=prs&hide_border=true&count_private=true&theme=calm&show_icons=true">
