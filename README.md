@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<div style="background-color: black">
+<div style="color: black">
 ✨ Languages I (kinda) know: ✨
 - Ruby
 - C#
