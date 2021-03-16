@@ -1,6 +1,4 @@
-# Hello Github-World
-
-What should I say...
+### Hello there 👋
 
 Languages I know:
 - Ruby
