@@ -1,9 +1,6 @@
 # Hello Github-World
 
-Uhm...
-
-Nothing really to see here!?
-
+What should I say...
 
 Languages I know:
 - Ruby
