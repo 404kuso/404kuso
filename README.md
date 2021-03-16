@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-Languages I know:
-- <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/ruby_icon_130842.png"> Ruby
+✨ Languages I know: ✨
+- Ruby
 - C#
 - Python
 - JS
@@ -10,7 +10,7 @@ Languages I know:
 - SQL
 - Java
 
-# Stats
+# Some Stats
 
 <a href="https://github.com/404kuso/404kuso/">
    <img src="https://github-readme-stats.vercel.app/api?username=404kuso&hide=prs&hide_border=true&count_private=true&theme=calm&show_icons=true">
