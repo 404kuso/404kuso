@@ -1,4 +1,4 @@
-<h3>Whaddupp</h3>
+<h3 style="color: blue;">Whaddupp</h3>
 
 <a href="https://github.com/404kuso/404kuso/">
    <img src="https://github-readme-stats.vercel.app/api?username=404kuso&hide=prs&hide_border=true&count_private=true&theme=calm&show_icons=true">
