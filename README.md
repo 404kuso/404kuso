@@ -1,4 +1,4 @@
-<h3">Hello GithubWorld</h3>
+<h3>Hello GithubWorld</h3>
 
 Uhm...
 
