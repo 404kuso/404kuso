@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-✨ Languages I know: ✨
+✨ Languages I (kinda) know: ✨
 - Ruby
 - C#
 - Python
