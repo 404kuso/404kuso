@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-<div style="color: black">
 ✨ Languages I (kinda) know: ✨
 - Ruby
 - C#
@@ -10,7 +9,6 @@
 - C
 - SQL
 - Java
-</div>
 
 # Some Stats
 
