@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Languages I know:
-- Ruby
+- <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/ruby_icon_130842.png"> Ruby
 - C#
 - Python
 - JS
