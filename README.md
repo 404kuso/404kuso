@@ -1,6 +1,6 @@
-### Hello there 👋
+### Hello there :}
 
-✨ uhhh.... ✨
+uhhh....
 - Ruby
 - C#
 - Python
