@@ -10,7 +10,7 @@ uhhh....
 - SQL
 - Java
 
-# Some Stats
+# Sum stats and these things
 
 <a href="https://github.com/404kuso/404kuso/">
    <img src="https://github-readme-stats.vercel.app/api?username=404kuso&hide=prs&hide_border=true&count_private=true&theme=blueberry&show_icons=true">
