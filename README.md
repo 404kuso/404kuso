@@ -7,7 +7,7 @@
 <br>
 <a href="https://github.com/404kuso/404kuso/">
    <img src="https://github-readme-stats.vercel.app/api?username=404kuso&hide=prs&hide_border=true&count_private=true&theme=dark&show_icons=true">
-<br>
+</a>
 
 ### Genutze Sprachen
 <br>
@@ -18,16 +18,16 @@
    
 ## Pins
 
-**[Template für discord.py command System](https://github.com/404kuso/discord-py-command_system)**
-<br>
 <a href="https://github.com/404kuso/discord-py-command_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-command_system&theme=dark&hide_border=true">
+   **Template für discord.py command System**
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-command_system&theme=dark&hide_border=true">
+</a>
 
-
-**[Template für discord.py slash-command System](https://github.com/404kuso/discord-py-slash)**
-<br>
 <a href="https://github.com/404kuso/discord-py-slash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-slash&theme=dark&hide_border=true">
-
+   **Template für discord.py slash-command System**
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-slash&theme=dark&hide_border=true">
+</a>
 <!--
 **404kuso/404kuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
