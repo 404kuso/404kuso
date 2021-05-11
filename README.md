@@ -13,20 +13,22 @@
 <br>
 <a href="https://github.com/404kuso/404kuso/">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404kuso&theme=dark&hide_border=true">
-   
+</a>
    
    
 ## Pins
 
+
+[**Template für discord.py command System**](https://github.com/404kuso/discord-py-command_system)
+<br>
 <a href="https://github.com/404kuso/discord-py-command_system">
-   **Template für discord.py command System**
-   <br>
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-command_system&theme=dark&hide_border=true">
 </a>
 
+
+[**Template für discord.py slash-command System**](https://github.com/404kuso/discord-py-slash)
 <a href="https://github.com/404kuso/discord-py-slash">
-   **Template für discord.py slash-command System**
-   <br>
+<br>
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-slash&theme=dark&hide_border=true">
 </a>
 <!--
