@@ -14,13 +14,12 @@
 ## Pins
 
 **Template für discord.py command System**
-
 <br>
 <a href="https://github.com/404kuso/discord-py-command_system/blob/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-command_system&theme=dark&hide_border=true">
 
-**Template für discord.py slash-command System**
 
+**Template für discord.py slash-command System**
 <br>
 <a href="https://github.com/404kuso/discord-py-slash/blob/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=404kuso&repo=discord-py-slash&theme=dark&hide_border=true">
