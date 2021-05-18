@@ -1,6 +1,3 @@
-### Hello there :}
-
-
 ## Status und so
 
 ### Allgemein
