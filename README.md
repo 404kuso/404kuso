@@ -16,6 +16,13 @@
 ## Pins
 
 
+[**Discord-PY-Buttons**](https://github.com/KusoRedsto/discord_py_buttons)
+<br>
+<a href="https://github.com/KusoRedsto/discord_py_buttons">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kusoredsto&repo=discord_py_buttons&theme=dark&hide_border=true">
+</a>
+
+
 [**Template für discord.py command System**](https://github.com/404kuso/discord-py-command_system)
 <br>
 <a href="https://github.com/404kuso/discord-py-command_system">
