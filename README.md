@@ -18,6 +18,7 @@
 
 [**Discord-message-components**](https://github.com/KusoRedsto/discord-message-components")
 <br>
+Use message components for messages in discord early with
 <a href="https://github.com/KusoRedsto/discord-message-components">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kusoredsto&repo=discord-message-components&theme=dark&hide_border=true">
 </a>
