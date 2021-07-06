@@ -20,5 +20,3 @@ Use message components for messages in discord early with
 <a href="https://github.com/KusoRedsto/discord-message-components">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kusoredsto&repo=discord-message-components&theme=dark&hide_border=true">
 </a>
-
-**404kuso/404kuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
