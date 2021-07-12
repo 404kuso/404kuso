@@ -1,3 +1,5 @@
+https://404kuso.github.io/
+
 ## Ayo
 
 <br>
