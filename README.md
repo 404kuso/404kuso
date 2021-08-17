@@ -15,10 +15,10 @@ https://404kuso.github.io/
    
 ## Pins
 
-[**Discord-message-components**](https://github.com/KusoRedsto/discord-message-components")
+[**Discord-ui**](https://github.com/KusoRedsto/discord-ui")
 <br>
-Use message components for messages in discord early with
+Use new discord ui features early
 <br>
-<a href="https://github.com/KusoRedsto/discord-message-components">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kusoredsto&repo=discord-message-components&theme=dark&hide_border=true">
+<a href="https://github.com/KusoRedsto/discord-ui">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kusoredsto&repo=discord-ui&theme=dark&hide_border=true">
 </a>
