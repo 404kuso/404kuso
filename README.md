@@ -1,6 +1,6 @@
 https://404kuso.github.io/
 
-## yo
+## some stats
 
 <br>
 <a href="https://github.com/404kuso/404kuso/">
@@ -15,7 +15,7 @@ https://404kuso.github.io/
    
 ## Pins
 
-[**Discord-ui**](https://github.com/KusoRedsto/discord-ui")
+[**discord-ui**](https://github.com/KusoRedsto/discord-ui")
 <br>
 Use new discord ui features early
 <br>
