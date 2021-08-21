@@ -1,6 +1,6 @@
 https://404kuso.github.io/
 
-## Ayo
+## yo
 
 <br>
 <a href="https://github.com/404kuso/404kuso/">
