@@ -15,10 +15,10 @@ https://404kuso.github.io/
    
 ## Pins
 
-[**discord-ui**](https://github.com/KusoRedsto/discord-ui")
+[**discord-ui**](https://github.com/discord-py-ui/discord-ui")
 <br>
 Use new discord ui features early
 <br>
-<a href="https://github.com/KusoRedsto/discord-ui">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kusoredsto&repo=discord-ui&theme=dark&hide_border=true">
+<a href="https://github.com/discord-py-ui/discord-ui">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=discord-py-ui&repo=discord-ui&theme=dark&hide_border=true">
 </a>
