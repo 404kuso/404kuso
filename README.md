@@ -1,4 +1,4 @@
-https://404kuso.github.io/
+<!--https://404kuso.github.io/-->
 
 ## some stats
 
