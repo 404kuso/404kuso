@@ -17,7 +17,6 @@
 
 [**discord-ui**](https://github.com/discord-py-ui/discord-ui")
 <br>
-Use new discord ui features early
 <br>
 <a href="https://github.com/discord-py-ui/discord-ui">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=discord-py-ui&repo=discord-ui&theme=dark&hide_border=true">
