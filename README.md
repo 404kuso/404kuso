@@ -1,3 +1,5 @@
+Find me on [**discord**](https://discord.com/users/539459006847254542)
+
 <!--https://404kuso.github.io/-->
 
 <!-- 
@@ -13,11 +15,12 @@
 </a>
    
     -->
+    
+ 
 ## Pins
 
 [**discord-ui**](https://github.com/discord-py-ui/discord-ui")
 <br>
-<br>
 <a href="https://github.com/discord-py-ui/discord-ui">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=discord-py-ui&repo=discord-ui&theme=dark&hide_border=true">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=discord-py-ui&repo=discord-ui&theme=light&hide_border=true">
 </a>
