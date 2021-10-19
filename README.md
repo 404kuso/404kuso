@@ -19,7 +19,7 @@ Find me on [**discord**](https://discord.com/users/539459006847254542)
  
 ## Pins
 
-[**discord-ui**](https://github.com/discord-py-ui/discord-ui")
+[**discord-ui**](https://github.com/discord-py-ui/discord-ui)
 <br>
 <a href="https://github.com/discord-py-ui/discord-ui">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=discord-py-ui&repo=discord-ui&theme=light&hide_border=true">
