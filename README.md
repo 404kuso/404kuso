@@ -1,4 +1,4 @@
-Find me on [**discord**](https://discord.com/users/539459006847254542)
+
 
 <!--https://404kuso.github.io/-->
 
